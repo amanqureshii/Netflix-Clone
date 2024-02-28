@@ -1,1 +1,1 @@
-# Netflix-Clone
+I have developed a clone website using HTML and CSS as part of my skill development practice. This project has allowed me to sharpen my abilities in both HTML and CSS, enabling me to progress towards proficiency in these essential web development languages.
